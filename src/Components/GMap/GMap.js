@@ -66,5 +66,5 @@ class GMap extends Component {
 }
 
 export default GoogleApiWrapper({
-    apiKey: ('AIzaSyBJKZHC5fuTGVumYM0zkD-6OsN--fVwk3U')
+    apiKey: ('')
 })(GMap)
